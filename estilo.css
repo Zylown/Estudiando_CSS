@@ -1,0 +1,19 @@
+.titulo-h2 {
+    color: red;
+}
+
+#id-element {
+    color: gold
+}
+
+[rancio="siu"] {
+    color: blueviolet;
+}
+
+h2 p {
+    color: skyblue
+}
+
+h2 p b:hover {
+    color: blue
+}
