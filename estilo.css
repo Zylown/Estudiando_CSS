@@ -17,3 +17,36 @@ h2 p {
 h2 p b:hover {
     color: blue
 }
+
+.color-red {
+    color: aquamarine
+}
+
+.contact-form__input--active {
+    color: yellowgreen;
+}
+
+.contact-form__input {
+    color: blueviolet;
+}
+
+.contact-form {
+    font-size: 25px;
+    background-color: purple;
+    width: 50%;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.contact-form__h2 {
+    font-size: 1em;
+    font-family: Georgia;
+    line-height: 2;
+    font-weight: normal;
+    font-stretch: normal;
+    font-variant: normal;
+
+}

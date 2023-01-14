@@ -1,0 +1,7 @@
+h2:hover { 
+    En CSS, el selector :hover se utiliza para aplicar estilos a un elemento cuando el usuario pasa el cursor sobre él. Esto se conoce comúnmente como "efecto hover".
+}
+
+#alt + z  = acomoda texto en pantalla
+
+ 
