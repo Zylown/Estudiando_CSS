@@ -4,4 +4,12 @@ h2:hover {
 
 #alt + z  = acomoda texto en pantalla
 
- 
+ font-size: 12px; es el tamaño de la letra / principal si
+ font-family: Georgia; es la tipografia / principal si
+ line-height: 2; es el espacio total que ocupa / principal maso, tambien puede quitar ancho a la letra
+ font-weight: normal; el ancho de la letra / principal maso
+ font-stretch: normal;
+ font-variant: normal;
+ max-width: 100%; las imagenes en los moviles los ajuste al 100%
+ box-sizing: border-box; es para definir una caja que siempre sea de ese tamaño
+ 1:25:00

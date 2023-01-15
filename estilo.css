@@ -43,10 +43,17 @@ h2 p b:hover {
 
 .contact-form__h2 {
     font-size: 1em;
-    font-family: Georgia;
+    font-family: 'Roboto Slab', serif;
     line-height: 2;
-    font-weight: normal;
+    font-weight: 200;
     font-stretch: normal;
     font-variant: normal;
 
+    color: azure;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
