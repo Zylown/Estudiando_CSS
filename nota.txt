@@ -1,7 +1,7 @@
 h2:hover { 
     En CSS, el selector :hover se utiliza para aplicar estilos a un elemento cuando el usuario pasa el cursor sobre él. Esto se conoce comúnmente como "efecto hover".
 }
-1:25:00
+2:00:30
 #alt + z  = acomoda texto en pantalla
 
  font-size: 12px; es el tamaño de la letra / principal si
@@ -14,5 +14,11 @@ h2:hover {
  box-sizing: border-box; es para definir una caja que siempre sea de ese tamaño
 
 diplay: inline => esto hace que la caja siga en linea 
+
+    box-shadow: -10px 10px 10px 2px #000;
+                  X     Y  difuminado opacidad  #color
+    box-shadow: -10px 10px 10px 2px #000,-10px 10px 10px 2px #000; cuando 
+                pones doble, aumenta la intensidad 
+                  
 
  
