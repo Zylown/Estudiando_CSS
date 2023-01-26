@@ -1,7 +1,7 @@
 h2:hover { 
     En CSS, el selector :hover se utiliza para aplicar estilos a un elemento cuando el usuario pasa el cursor sobre él. Esto se conoce comúnmente como "efecto hover".
 }
-2:00:30
+2:53:00
 #alt + z  = acomoda texto en pantalla
 
  font-size: 12px; es el tamaño de la letra / principal si
@@ -18,7 +18,23 @@ diplay: inline => esto hace que la caja siga en linea
     box-shadow: -10px 10px 10px 2px #000;
                   X     Y  difuminado opacidad  #color
     box-shadow: -10px 10px 10px 2px #000,-10px 10px 10px 2px #000; cuando 
-                pones doble, aumenta la intensidad 
-                  
+                pones doble, aumenta la intensidad              
+top:  10px es importante que bottom
+left: 10px es importante que right
+z-index: 100 = se utiliza para controlar el orden de superposición de los elementos
+opacity: 1 = es totalmente opaco
 
- 
+Position: absolute permite posicionar elementos de forma absoluta en relación al contenedor padre. Esto significa que el elemento se posiciona en relación a los bordes del contenedor padre, independientemente de la posición de los demás elementos. Esto permite colocar un elemento exactamente donde se desea, sin importar el flujo del documento. Solo agarra el elemento y no  toda la línea.
+
+Position: relative, pone adentro del contenedor encajando bien.
+
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    Para centrar en un height y width
+
+position:fixed es igual que absolute pero queda fijado
+
+La propiedad CSS position: sticky es una mezcla entre position: relative y position: fixed, la cual permite que un elemento se mantenga visible en la pantalla mientras el usuario desplaza el contenido de la página. Esta propiedad es útil para mantener elementos como encabezados o barras de navegación visibles en todo momento, sin importar cuánto se desplace el contenido.
