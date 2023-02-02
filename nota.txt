@@ -1,7 +1,7 @@
 h2:hover { 
     En CSS, el selector :hover se utiliza para aplicar estilos a un elemento cuando el usuario pasa el cursor sobre él. Esto se conoce comúnmente como "efecto hover".
 }
-2:53:00
+3:43:33
 #alt + z  = acomoda texto en pantalla
 
  font-size: 12px; es el tamaño de la letra / principal si
@@ -13,7 +13,7 @@ h2:hover {
  max-width: 100%; las imagenes en los moviles los ajuste al 100%
  box-sizing: border-box; es para definir una caja que siempre sea de ese tamaño
 
-diplay: inline => esto hace que la caja siga en linea 
+display: inline => esto hace que la caja siga en linea 
 
     box-shadow: -10px 10px 10px 2px #000;
                   X     Y  difuminado opacidad  #color
@@ -38,3 +38,14 @@ Position: relative, pone adentro del contenedor encajando bien.
 position:fixed es igual que absolute pero queda fijado
 
 La propiedad CSS position: sticky es una mezcla entre position: relative y position: fixed, la cual permite que un elemento se mantenga visible en la pantalla mientras el usuario desplaza el contenido de la página. Esta propiedad es útil para mantener elementos como encabezados o barras de navegación visibles en todo momento, sin importar cuánto se desplace el contenido.
+
+Los inline no se puede modificar su height, width, sus resoluciones
+
+overflow: auto ajusta las imagenes o texto dentro de una divicion o cuadro
+
+outline: es usada para establecer el estilo del contorno de un elemento
+
+"CLASE":link -> esto sirve para ver si ya entraste a una página, si a la página que entraste no existe, nunca cambia de colors
+
+"clase":active -> sirve para mientras mantengas presionado 
+cambie a otra cosa y si le pones un transition queda mejor
