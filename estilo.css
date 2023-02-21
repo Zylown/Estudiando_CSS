@@ -399,11 +399,24 @@ a:visited {
     background: skyblue;
 }*/
 
-.lang {
+/*.lang {
     margin: 25px;
 }
 
 .lang b:lang(en) {
     background: red;
     padding: 20px;
+}*/
+
+.caja {
+    margin: 25px;
+    width: 300px;
+    height: 500px;
+}
+
+.caja img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    border: 2px solid red;
 }
