@@ -1,7 +1,7 @@
 h2:hover { 
     En CSS, el selector :hover se utiliza para aplicar estilos a un elemento cuando el usuario pasa el cursor sobre él. Esto se conoce comúnmente como "efecto hover".
 }
-3:47:27
+3:50:56
 #alt + z  = acomoda texto en pantalla
 
  font-size: 12px; es el tamaño de la letra / principal si
@@ -51,3 +51,5 @@ outline: es usada para establecer el estilo del contorno de un elemento
 cambie a otra cosa y si le pones un transition queda mejor
 
 object-fit: cover; toda al img se ajusta al contenedor
+object-fit: none; pone las resoluciones originales
+object-fit: scale-down; se utiliza para escalar un elemento hacia abajo. Esto significa que el elemento se reducirá en tamaño, pero mantendrá su proporción. 
